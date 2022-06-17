@@ -1,1 +1,2 @@
-# ROS_car_Gimli
+# ROS resources
+By: Avinash Baskaran
